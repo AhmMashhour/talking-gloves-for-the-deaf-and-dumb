@@ -1,4 +1,4 @@
-# talking gloves for the deaf & dumb
+# Talking Gloves For The Deaf & Dumb
 
 This project involves the development of a glove-based gesture recognition system using flex sensors and an Arduino microcontroller. The system captures hand gestures and translates them into corresponding characters, which are then sent via a serial connection. It includes calibration for sensor adaptability, reading and mapping sensor values to angles, and recognizing specific gestures for different characters.
 
